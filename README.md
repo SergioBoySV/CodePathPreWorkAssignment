@@ -10,22 +10,41 @@ Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
-- [✅] Users are see a screen with three labels and a button
+- [✅] Users can see a screen with three labels and a button
 - [✅] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://github.com/SergioBoySV/CodePathPreWorkAssignment/assets/85202224/d90e6934-ca16-441c-a197-194416b72030
 
 Code Sources:
 
+[How To Use Multiple View Controllers in Your iOS App - Swift 5 (Xcode 14 2023)](https://www.youtube.com/watch?v=AiKBxiHdFYo)
+
 [IOS Swift : How to create a custom Popup / Alert with simple animation Youtube Video](https://www.youtube.com/watch?v=vtSVY2RrDGM)
+
+[Xcode iOS Swift Programming Tutorial - How to Open Links Using Safari](https://www.youtube.com/watch?v=Epb_ZZBFZIs)
 
 [Swift: Confetti Animation Effect (2021, Xcode 12, Swift 5) – iOS Development Beginners](https://www.youtube.com/watch?v=YosPD7eFvcE)
 
 ## App Brainstorming (Step 4)
+
+### Favorite App Features:
+Pyto: Being able to execute Python code on mobile devices.
+
+SkyView: Informing the user of the stars around them based on their location.
+
+Youtube: Picture-in-picture viewing mode
+
+#### In General:
+- Streaks that tell a user how many days in a row they have logged onto the app. Encourages daily use (stimulation).
+- Face ID authentication to log in (Robinhood, any bank application).
+- Moving the phone in real time triggers events in the app (Gyroscope).
+- Giving the user the ability to change the icon of the app (Slack, Discord).
+- Haptic feedback.
+
+### New App Idea:
+
 
 ## Notes
 
