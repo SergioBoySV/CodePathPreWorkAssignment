@@ -10,7 +10,7 @@ Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
-- [✅] Users are see a screen with three labels and a button
+- [✅] Users can see a screen with three labels and a button
 - [✅] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -21,7 +21,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Code Sources:
 
+[How To Use Multiple View Controllers in Your iOS App - Swift 5 (Xcode 14 2023)](https://www.youtube.com/watch?v=AiKBxiHdFYo)
+
 [IOS Swift : How to create a custom Popup / Alert with simple animation Youtube Video](https://www.youtube.com/watch?v=vtSVY2RrDGM)
+
+[Xcode iOS Swift Programming Tutorial - How to Open Links Using Safari](https://www.youtube.com/watch?v=Epb_ZZBFZIs)
 
 [Swift: Confetti Animation Effect (2021, Xcode 12, Swift 5) – iOS Development Beginners](https://www.youtube.com/watch?v=YosPD7eFvcE)
 
