@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://github.com/SergioBoySV/CodePathPreWorkAssignment/assets/85202224/d90e6934-ca16-441c-a197-194416b72030
 
 Code Sources:
 
@@ -30,6 +28,23 @@ Code Sources:
 [Swift: Confetti Animation Effect (2021, Xcode 12, Swift 5) – iOS Development Beginners](https://www.youtube.com/watch?v=YosPD7eFvcE)
 
 ## App Brainstorming (Step 4)
+
+### Favorite App Features:
+Pyto: Being able to execute Python code on mobile devices.
+
+SkyView: Informing the user of the stars around them based on their location.
+
+Youtube: Picture-in-picture viewing mode
+
+#### In General:
+- Streaks that tell a user how many days in a row they have logged onto the app. Encourages daily use (stimulation).
+- Face ID authentication to log in (Robinhood, any bank application).
+- Moving the phone in real time triggers events in the app (Gyroscope).
+- Giving the user the ability to change the icon of the app (Slack, Discord).
+- Haptic feedback.
+
+### New App Idea:
+
 
 ## Notes
 
