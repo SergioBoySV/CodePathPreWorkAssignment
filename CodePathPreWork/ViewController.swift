@@ -42,7 +42,7 @@ class ViewController: UIViewController
         
         view.layer.addSublayer(confettiEmitter)
         
-        DispatchQueue.main.asyncAfter(deadline: .now() + 4)
+        DispatchQueue.main.asyncAfter(deadline: .now() + 2.5)
         {
             self.confettiEmitter.removeFromSuperlayer()
         }
