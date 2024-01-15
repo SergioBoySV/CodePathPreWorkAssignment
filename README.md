@@ -4,7 +4,7 @@ Submitted by: **Sergio Villarreal**
 
 **CodePathPrework** is an app that lets you connect with fellow college students in your area. You can view a colleagues name, school, and profession. You can then decide to introduce yourself or find another colleague. This easy to use app provides an effortless way for you to connect with students around you. So, what are you waiting for? Go out there and get linked in!
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -30,26 +30,26 @@ Code Sources:
 ## App Brainstorming (Step 4)
 
 ### Favorite App Features:
-Pyto: Being able to execute Python code on mobile devices.
+**Pyto:** Being able to execute Python code on mobile devices.
 
-SkyView: Informing the user of the stars around them based on their location.
+**SkyView:** Informing the user of the stars around them based on their location.
 
-Youtube: Picture-in-picture viewing mode
+**Youtube:** Picture-in-picture viewing mode
 
 #### In General:
 - Streaks that tell a user how many days in a row they have logged onto the app. Encourages daily use (stimulation).
-- Face ID authentication to log in (Robinhood, any bank application).
+- Face ID authentication to log in (Robinhood, any banking application).
 - Moving the phone in real time triggers events in the app (Gyroscope).
 - Giving the user the ability to change the icon of the app (Slack, Discord).
 - Haptic feedback.
 
 ### New App Idea:
-I would like to make an app that visualizes the possible future movements of a stock price. Swift would be used on the front end for visually appealing graphs and modern UI and UX. Machine learning aspects would be used to train a model on huge datasets on years and years of stock price movements. Some of the backend could be done with Python- TensorFlow for training a model and perhaps Matplotlib for some visualization. There are many more Python modules I'm not familiar with that could be used as part of this app as well!
+I would like to make an app that visualizes the possible future movements of a stock price. Swift would be used on the front end for visually appealing graphs and modern UI and UX. Machine learning aspects would be used to train a model on huge datasets on years and years of stock price movements. Some of the backend could be done with Python- TensorFlow for training a model and perhaps Matplotlib for some visualization. There are many more Python modules I am not familiar with that could be used as part of this app as well!
 
 
 ## Notes
 
-This was my first time diving this deep into Swift. I am still very much in the process of clearing this steep learning curve. This is what I had the most trouble with, making a product knowing virtually nothing about Swift. I used a number of online resources including Youtube and ChatGPT. Sources I used for code will be listed on this README as well as in the code. <ins>**I also could not get the hang of constraints. Due to this, it is better to run my app on an iPhone 15 Pro Simulator.**</ins> Although I found it difficult to wrap my head around Swift and iOS development, I am proud of this little app I made and I am eager to learn more! 
+This was my first time diving this deep into Swift. I am still very much in the process of clearing this steep learning curve. This is what I had the most trouble with- making a product knowing virtually nothing about Swift. I used a number of online resources including Youtube and ChatGPT. Sources I used for code will be listed on this README as well as in the code. <ins>**I also could not get the hang of constraints. Due to this, it is better to run my app on an iPhone 15 Pro Simulator.**</ins> Although I found it difficult to wrap my head around Swift and iOS development, I am proud of this little app I made and I am eager to learn more! 
 
 Some knowledge gaps I have when it comes to iOS development:
 - Objective C
