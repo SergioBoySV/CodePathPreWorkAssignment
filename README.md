@@ -44,6 +44,7 @@ Youtube: Picture-in-picture viewing mode
 - Haptic feedback.
 
 ### New App Idea:
+I would like to make an app that visualizes the possible future movements of a stock price. Swift would be used on the front end for visually appealing graphs and modern UI and UX. Machine learning aspects would be used to train a model on huge datasets on years and years of stock price movements. Some of the backend could be done with Python- TensorFlow for training a model and perhaps Matplotlib for some visualization. There are many more Python modules I'm not familiar with that could be used as part of this app as well!
 
 
 ## Notes
